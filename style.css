@@ -122,7 +122,7 @@ html {
 .id1 {
   font-size: 18px;
   font-weight: 600;
-  color: darkgoldenrod;
+  
 }
 .id2 {
   font-size: 35px;
@@ -131,6 +131,13 @@ html {
 .id3 {
   font-size: 16px;
   font-weight: 600;
+}
+.txtcolor{
+  color: rgb(4, 100, 44);
+}
+
+.txtcolor1{
+  color: rgb(248, 224, 6);
 }
 .about-main {
   width: 100%;
